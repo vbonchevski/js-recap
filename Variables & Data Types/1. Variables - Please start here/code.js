@@ -17,7 +17,7 @@ console.log(score, livesLeft);
 // constants
 
 const charName = "Mario";
+console.log(charName); // will print - Mario 
 
 charName = "Not Mario";
-
 console.log(charName); // will give an error as we're trying to reassign a constant 
