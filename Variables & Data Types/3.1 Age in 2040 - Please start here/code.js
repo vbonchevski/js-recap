@@ -6,6 +6,10 @@ var firstSentence = `Hello ${firstName} + ${lastName} .`;
 
 parseInt(birthYear);
 
+// from the video 
+
+// birthYear = parseInt(birthYear) - this is not used by myself on the first try 
+
 var userCurrentAge = 2020 - birthYear;
 var userFutureAge = 2040 - birthYear; 
 
